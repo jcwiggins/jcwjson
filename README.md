@@ -1,3 +1,3 @@
 jcwjson
 =======
-A test geojscon file
+A test geojson file
